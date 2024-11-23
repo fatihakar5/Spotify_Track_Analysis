@@ -1,4 +1,7 @@
 # Spotify_Track_Analysis
+
+![SPOTIFY](https://raw.githubusercontent.com/fatihakar5/Spotify_Track_Analysis/refs/heads/main/spotify.jpg)
+![SPOTIFY]()
 Spotify Şarkıları Verisetini analiz ediyoruz. Verisetinde, Spotify'da bulunan şarkılara ait çeşitli bilgiler yer almaktadır.
 
 Spotify, dünya çapında en popüler müzik akış platformlarından biridir ve bu verisetini incelemek, müzikle ilgili eğilimleri ve desenleri keşfetmek için mükemmel bir fırsat sunmaktadır. Bu analiz ile, şarkıların popülerliği ile ses özellikleri arasındaki ilişkileri anlamayı amaçlıyoruz.
